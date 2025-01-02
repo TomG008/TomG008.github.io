@@ -5,9 +5,11 @@ Before joining Google, I was a [Google Ph.D. Fellow](https://grad.illinois.edu/
 
 
 **[07/22] Successfully defended my PhD Thesis**
-<p>
+
+<figure>
 <img src ="https://tomg008.github.io/images/final_def.png" align ="left", width="250" height="140"> 
-</p>
+</figure>
+
 
 I have successfully defended my Ph.D. thesis! I am exceptionally grateful for receiving a lot of help and support from my advisors, colleagues, friends, and family over the years. My thesis *Efficient AI Hardware Acceleration* is available for open access.
 
