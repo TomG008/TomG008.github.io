@@ -7,7 +7,7 @@ Before joining Google, I was a [Google Ph.D. Fellow](https://grad.illinois.edu/
 **[07/22] Successfully defended my PhD Thesis**
 
 <picture>
-<img src ="https://tomg008.github.io/images/final_def.png" align ="left", width="250" height="140"> 
+<img src ="images/final_def.png" align ="left", width="250" height="140"> 
 </picture>
 
 
