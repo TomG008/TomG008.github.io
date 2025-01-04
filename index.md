@@ -16,16 +16,13 @@ I have successfully defended my Ph.D. thesis! I am exceptionally grateful for re
 
 <img src ="images/autodistill.png" align ="left" width="250" height="140" hspace="15"> 
 
-Our recent collaboration with Google proposes AutoDistill, an end-to-end model distillation and model architecture exploration framework for building hardware-aware NLP pre-trained models with BERT-level accuracy but 5X fewer parameters.
-<br>
-
+Our recent collaboration with Google proposes AutoDistill, an end-to-end model distillation and model architecture exploration framework for building hardware-aware NLP pre-trained models with BERT-level accuracy but 5X fewer parameters. 
 [[Paper](https://arxiv.org/pdf/2201.08539v1)]
 <br><br>
 
 **[11/21] Won the ACM Student Research Competition Winner Award**
 
 <img src ="images/src_award.jpg" align ="left" width="250" height="140" hspace="15"> 
-
 
 I received the 1st place winner award of the [ACM Student Research Competition at ICCAD 2021](https://www.sigda.org/sigda-events/src/) by proposing three end-to-end design flows for building efficient edge and cloud AI systems. These flows are parts of my latest research including EcoSys (published in TCAD), F-CAD (published in DAC'21), and SkyNet (published in MLSys'20).
 <br><br>
