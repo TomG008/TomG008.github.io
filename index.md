@@ -4,7 +4,7 @@ I work at Google on optimizing the TPU perforamnce of Gemini training and servin
 Before joining Google, I was a [Google Ph.D. Fellow](https://grad.illinois.edu/news/xiaofan-zhang-csl-engineering-student-receives-2020-google-phd-fellowship) and a [Mavis Future Faculty Fellow](https://mavis.grainger.illinois.edu/) and I received my Ph.D. from the University of Illinois Urbana-Champaign (UIUC) in 2022. My advisor is [Prof. Deming Chen](http://dchen.ece.illinois.edu/) and I closely work with [Prof. Wen-mei Hwu](https://research.nvidia.com/person/wen-mei-hwu) and [Prof. Junjun Xiong](https://www.xlab-ub.com/). I received my B.S. and M.S. in UESTC, Chengdu, China.<br><br>
 
 
-#### [07/22] Successfully defended my PhD Thesis
+**[07/22] Successfully defended my PhD Thesis**
 
 <img src ="images/final_def.png" align ="left" width="250" height="140" hspace="15"> 
   
@@ -12,7 +12,7 @@ I have successfully defended my Ph.D. thesis! I am exceptionally grateful for re
 <br><br><br>
 
 
-#### [01/22] AutoDistill makes NLP models run efficiently on TPUv4i
+**[01/22] AutoDistill makes NLP models run efficiently on TPUv4i**
 
 <img src ="images/autodistill.png" align ="left" width="250" height="140" hspace="15"> 
 
@@ -22,7 +22,7 @@ Our recent collaboration with Google proposes AutoDistill, an end-to-end model d
 [[Paper](https://arxiv.org/pdf/2201.08539v1)]
 <br><br>
 
-#### [11/21] Won the ACM Student Research Competition Winner Award
+**[11/21] Won the ACM Student Research Competition Winner Award**
 
 <img src ="images/src_award.jpg" align ="left" width="250" height="140" hspace="15"> 
 
