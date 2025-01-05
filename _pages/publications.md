@@ -1,36 +1,43 @@
 ---
 layout: archive
-title: "Publications"
+title: " "
 permalink: /publications/
 author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+  <div class="wordwrap">You can also find my publications on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+
+## 2024
+
+**TBA: Faster Large Language Model Training Using SSD-Based Activation Offloading** [PDF]
+
+Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors)
+
+arXiv:2408.10013, 2024
+
+
+**ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization** [PDF]
+
+Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, Xiaofan Zhang, Souvik Kundu, Amir Yazdanbakhsh, Yingyan Lin
+
+38th Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, Dec. 2024
+
+**New Solutions on LLM Acceleration, Optimization, and Application** 
+
+[Invited] Yingbing Huang, Jiaxin Wan, Hanchen Ye, Manvi Jha, Jinghua Wang, Yuhong Li, Xiaofan Zhang, Deming Chen
+​
+61st Design Automation Conference (DAC), San Francisco, CA, June 2024
+
+
+
+
+
 
 
 
