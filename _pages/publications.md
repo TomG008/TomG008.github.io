@@ -17,21 +17,21 @@ author_profile: true
 
 **TBA: Faster Large Language Model Training Using SSD-Based Activation Offloading** [PDF]
 
-Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors)
-
+Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors)<br>
 arXiv:2408.10013, 2024
+
 
 
 **ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization** [PDF]
 
-Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, Xiaofan Zhang, Souvik Kundu, Amir Yazdanbakhsh, Yingyan Lin
-
+Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, Xiaofan Zhang, Souvik Kundu, Amir Yazdanbakhsh, Yingyan Lin<br>
 38th Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, Dec. 2024
+
+
 
 **New Solutions on LLM Acceleration, Optimization, and Application** 
 
-[Invited] Yingbing Huang, Jiaxin Wan, Hanchen Ye, Manvi Jha, Jinghua Wang, Yuhong Li, Xiaofan Zhang, Deming Chen
-​
+[Invited] Yingbing Huang, Jiaxin Wan, Hanchen Ye, Manvi Jha, Jinghua Wang, Yuhong Li, Xiaofan Zhang, Deming Chen<br>
 61st Design Automation Conference (DAC), San Francisco, CA, June 2024
 
 
