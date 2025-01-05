@@ -1,4 +1,9 @@
-
+---
+layout: archive
+title: "Awards"
+permalink: /awards/
+author_profile: true
+---
 
 
 **1st Place Winner Award** ACM Student Research Competition at ICCAD, 2021
