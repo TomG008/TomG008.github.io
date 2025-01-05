@@ -5,7 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-{% include base_path %}
 
 **1st Place Winner Award** ACM Student Research Competition at ICCAD, 2021
 
