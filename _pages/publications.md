@@ -51,7 +51,7 @@ Jiaxin Wan, Yingbing Huang, Yuhong Li, Hanchen Ye, Jinghua Wang, **Xiaofan Zhang
 
 
 
-HomeSGN: A Smarter Home with Novel Rule Mining Enabled by a Scorer-Generator GAN [[PDF](https://ieeexplore.ieee.org/document/10473909)]
+**HomeSGN: A Smarter Home with Novel Rule Mining Enabled by a Scorer-Generator GAN** [[PDF](https://ieeexplore.ieee.org/document/10473909)]
 
 Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 ​*29th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 2024*
