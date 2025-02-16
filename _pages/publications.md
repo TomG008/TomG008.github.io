@@ -17,7 +17,7 @@ author_profile: true
 
 **SSDTrain: An Activation Offloading Framework to SSDs for Faster Large Language Model Training** [PDF]
 
-Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors) <br>
+Kun Wu\*, Jeongmin Brian Park\*, **Xiaofan Zhang\*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors) <br>
 _62nd Design Automation Conference (DAC), San Francisco, CA, June 2025_
 
 
@@ -26,14 +26,14 @@ _62nd Design Automation Conference (DAC), San Francisco, CA, June 2025_
 **ShiftAddLLM: Accelerating Pretrained LLMs via Post-Training Multiplication-Less Reparameterization** [[PDF](https://arxiv.org/abs/2406.05981)]
 
 Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, **Xiaofan Zhang**, Souvik Kundu, Amir Yazdanbakhsh, Yingyan Lin<br>
-*38th Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, Dec. 2024*
+_38th Annual Conference on Neural Information Processing Systems (NeurIPS), Vancouver, Canada, Dec. 2024_
 
 
 
 **New Solutions on LLM Acceleration, Optimization, and Application** [[PDF](https://arxiv.org/abs/2406.10903)]
 
 [Invited] Yingbing Huang, Jiaxin Wan, Hanchen Ye, Manvi Jha, Jinghua Wang, Yuhong Li, **Xiaofan Zhang**, Deming Chen<br>
-*61st Design Automation Conference (DAC), San Francisco, CA, June 2024*
+_61st Design Automation Conference (DAC), San Francisco, CA, June 2024_
 
 
 
@@ -62,7 +62,6 @@ Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 **Compilation and Optimizations for Efficient Machine Learning on Embedded Systems** [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39932-9_3)]
 
 **Xiaofan Zhang**, Yao Chen, Cong Hao, Sitao Huang, Yuhong Li, Deming Chen<br>
-
 ​*Book chapter in Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing: Software Optimizations and Hardware/Software Co-design, Springer Nature*
 
 
@@ -70,14 +69,14 @@ Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 **Augmenting Hessians with Inter-Layer Dependencies for Mixed-Precision Post-Training Quantization** [[PDF](https://arxiv.org/abs/2306.04879)]
 
 Clemens Schaefer, Navid Lambert-Shirzad, **Xiaofan Zhang**, Chiachen Chou, Tom Jablin, Jian Li, Elfie Guo, Caitlin Stanton, Siddharth Joshi, Yu Emma Wang<br>
-*arXiv preprint arXiv:2306.04879, 2023*
+_arXiv preprint arXiv:2306.04879, 2023_
 
 
 ​
 **EH-DNAS: End-to-End Hardware-aware Differentiable Neural Architecture Search** [[PDF](https://arxiv.org/abs/2111.12299)]
 
-Qian Jiang*, **Xiaofan Zhang***, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors) <br>
-*40th International Conference on Machine Learning (ICML) Workshop on Differentiable Almost Everything, July 2023*
+Qian Jiang*, **Xiaofan Zhang\***, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors) <br>
+_40th International Conference on Machine Learning (ICML) Workshop on Differentiable Almost Everything, July 2023_
 
 
 
