@@ -61,21 +61,21 @@ Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 
 **Compilation and Optimizations for Efficient Machine Learning on Embedded Systems** [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39932-9_3)]
 
-Xiaofan Zhang, Yao Chen, Cong Hao, Sitao Huang, Yuhong Li, Deming Chen<br>
+**Xiaofan Zhang**, Yao Chen, Cong Hao, Sitao Huang, Yuhong Li, Deming Chen<br>
 ​*Book chapter in Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing: Software Optimizations and Hardware/Software Co-design, Springer Nature*
 
 
 
 **Augmenting Hessians with Inter-Layer Dependencies for Mixed-Precision Post-Training Quantization** [[PDF](https://arxiv.org/abs/2306.04879)]
 
-Clemens Schaefer, Navid Lambert-Shirzad, Xiaofan Zhang, Chiachen Chou, Tom Jablin, Jian Li, Elfie Guo, Caitlin Stanton, Siddharth Joshi, Yu Emma Wang<br>
+Clemens Schaefer, Navid Lambert-Shirzad, **Xiaofan Zhang**, Chiachen Chou, Tom Jablin, Jian Li, Elfie Guo, Caitlin Stanton, Siddharth Joshi, Yu Emma Wang<br>
 *arXiv preprint arXiv:2306.04879, 2023*
 
 
 ​
 **EH-DNAS: End-to-End Hardware-aware Differentiable Neural Architecture Search** [[PDF](https://arxiv.org/abs/2111.12299)]
 
-Qian Jiang*, Xiaofan Zhang*, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors)<br>
+Qian Jiang*, **Xiaofan Zhang***, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors)<br>
 *40th International Conference on Machine Learning (ICML) Workshop on Differentiable Almost Everything, July 2023*
 
 
