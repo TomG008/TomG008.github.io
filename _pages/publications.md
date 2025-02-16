@@ -62,6 +62,7 @@ Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 **Compilation and Optimizations for Efficient Machine Learning on Embedded Systems** [[PDF](https://link.springer.com/chapter/10.1007/978-3-031-39932-9_3)]
 
 **Xiaofan Zhang**, Yao Chen, Cong Hao, Sitao Huang, Yuhong Li, Deming Chen<br>
+
 ​*Book chapter in Embedded Machine Learning for Cyber-Physical, IoT, and Edge Computing: Software Optimizations and Hardware/Software Co-design, Springer Nature*
 
 
