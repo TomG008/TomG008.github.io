@@ -17,7 +17,7 @@ author_profile: true
 
 **SSDTrain: An Activation Offloading Framework to SSDs for Faster Large Language Model Training** [PDF]
 
-Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors)<br>
+Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors) <br>
 *62nd Design Automation Conference (DAC), San Francisco, CA, June 2025*
 
 
@@ -76,7 +76,7 @@ Clemens Schaefer, Navid Lambert-Shirzad, **Xiaofan Zhang**, Chiachen Chou, Tom J
 ​
 **EH-DNAS: End-to-End Hardware-aware Differentiable Neural Architecture Search** [[PDF](https://arxiv.org/abs/2111.12299)]
 
-Qian Jiang*, **Xiaofan Zhang***, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors)<br>
+Qian Jiang*, **Xiaofan Zhang***, Deming Chen, Minh N. Do, Raymond A. Yeh (*equal contributors) <br>
 *40th International Conference on Machine Learning (ICML) Workshop on Differentiable Almost Everything, July 2023*
 
 
