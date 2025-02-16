@@ -38,22 +38,22 @@ Haoran You, Yipin Guo, Yichao Fu, Wei Zhou, Huihong Shi, **Xiaofan Zhang**, Souv
 
 
 **AutoAI2C: An Automated Hardware Generator for DNN Acceleration on both FPGA and ASIC** [[PDF](https://ieeexplore.ieee.org/document/10508183)]
-​
-Yongan Zhang, **Xiaofan Zhang**, Pengfei Xu, Yang Zhao, Cong Hao, Yue Wang, Chaojian Li, Deming Chen, Yingyan Lin
+
+​Yongan Zhang, **Xiaofan Zhang**, Pengfei Xu, Yang Zhao, Cong Hao, Yue Wang, Chaojian Li, Deming Chen, Yingyan Lin<br>
 ​*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
 
 
 
 **Software/Hardware Co-design for LLM and Its Application for Design Verification** [[PDF](https://ieeexplore.ieee.org/document/10473893)]
-​
-Jiaxin Wan, Yingbing Huang, Yuhong Li, Hanchen Ye, Jinghua Wang, **Xiaofan Zhang**, Deming Chen
+
+Jiaxin Wan, Yingbing Huang, Yuhong Li, Hanchen Ye, Jinghua Wang, **Xiaofan Zhang**, Deming Chen<br>
 ​*29th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 2024*
 
 
 
 HomeSGN: A Smarter Home with Novel Rule Mining Enabled by a Scorer-Generator GAN [[PDF](https://ieeexplore.ieee.org/document/10473909)]
-​
-Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen
+
+Zehua Yuan, Junhao Pan, **Xiaofan Zhang**, Deming Chen<br>
 ​*29th Asia and South Pacific Design Automation Conference (ASP-DAC), Jan. 2024*
 
 
