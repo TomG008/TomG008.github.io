@@ -18,7 +18,7 @@ author_profile: true
 **SSDTrain: An Activation Offloading Framework to SSDs for Faster Large Language Model Training** [PDF]
 
 Kun Wu*, Jeongmin Brian Park*, **Xiaofan Zhang*** , Mert Hidayetoğlu, Vikram Sharma Mailthody, Sitao Huang, Steven Sam Lumetta, Wen-mei Hwu (*equal contributors) <br>
-*62nd Design Automation Conference (DAC), San Francisco, CA, June 2025*
+_62nd Design Automation Conference (DAC), San Francisco, CA, June 2025_
 
 
 ## 2024
