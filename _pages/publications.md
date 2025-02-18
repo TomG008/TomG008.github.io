@@ -39,7 +39,7 @@ _61st Design Automation Conference (DAC), San Francisco, CA, June 2024_
 
 **AutoAI2C: An Automated Hardware Generator for DNN Acceleration on both FPGA and ASIC** [[PDF](https://ieeexplore.ieee.org/document/10508183)]
 
-​Yongan Zhang, **Xiaofan Zhang**, Pengfei Xu, Yang Zhao, Cong Hao, Yue Wang, Chaojian Li, Deming Chen, Yingyan Lin<br>
+​Yongan Zhang, **Xiaofan Zhang**, Pengfei Xu, Yang Zhao, Cong Hao, Deming Chen, Yingyan Lin<br>
 ​*IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD), 2024*
 
 
